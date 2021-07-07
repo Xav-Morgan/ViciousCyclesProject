@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    width: 70%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkgrey;
+}
+header {
+    font-size: 4em;
+    text-align: center;
+    color: #666666;
+}
+#Background {
+        display: block;
+        margin: 0 Auto;
+        width: 60%;
+}
+nav {
+    text-align: center;
+    font-size: 18px;
+}
+h1 { 
+    font-weight: normal;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+ul { 
+    font-style: italic;
+}
+footer {
+    background:#919191;
+    text-align: center;
+}
+#FB_Blue {
+    width: 40px;
+    height: 40px;
+}
+#TW_Blue {
+    width: 40px;
+    height: 40px;
+}
